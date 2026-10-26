@@ -11,12 +11,9 @@ Site de base para um cliente que tem uma barbearia.
 - CSS3
 - JavaScript
 
-
-https://github.com/vitorquirino/orlando-cortes.git
-
 ## 📸 Demonstração
+https://vitorquirino.github.io/orlando-cortes/
 
-Adicione aqui imagens ou o link do projeto publicado.
 
 ## 👨‍💻 Autor
 
